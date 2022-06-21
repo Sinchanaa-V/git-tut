@@ -2,7 +2,6 @@
 % training data.
 % =========================================================================
 
-%my comment
 clear variables;
 close all;
 
